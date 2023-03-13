@@ -1,4 +1,3 @@
-# WhyT
 ### Showing students _why_ we neet t-distributions
 
 Students are often told
