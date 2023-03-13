@@ -13,3 +13,4 @@ Youtube: https://www.youtube.com/watch?v=gKi1Gx-yaKY
 Desmos Graph 1: https://www.desmos.com/calculator/acb3z5bxj6  
 Desmos Graph 2 (click-n-drag): https://www.desmos.com/calculator/mjlxy95fr2
 
+The inspriation originally came from a calculator activity created and shared by Floyd Bullard.
