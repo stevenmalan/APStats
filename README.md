@@ -8,3 +8,5 @@ Students are often told
 
 ...but they are seldom visually shown where they come from.
 
+This lesson will give a gut-feeling understanding of why variability increases when we used sample standard deviation when standardizing x-bar.
+Youtube: https://www.youtube.com/watch?v=gKi1Gx-yaKY
